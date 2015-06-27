@@ -1,0 +1,21 @@
+﻿<flash_project name="chess" version="1">
+    <project_folder name="classes" expanded="true">
+        <project_folder name="util" expanded="true">
+            <project_file path="../classes/util/Board.as" filetype="as" />
+        </project_folder>
+        <project_folder name="gameapp" expanded="true">
+            <project_file path="../classes/gameapp/CGameApp.as" filetype="as" />
+        </project_folder>
+        <project_file path="./classes/ChessPiece.as" filetype="as" />
+        <project_file path="./classes/ChessBoard.as" filetype="as" />
+        <project_file path="./classes/ChessGame.as" filetype="as" />
+        <project_file path="./classes/ChessMove.as" filetype="as" />
+        <project_file path="./classes/PGNFile.as" filetype="as" />
+        <project_file path="./classes/PGNMoveText.as" filetype="as" />
+        <project_file path="./classes/TagPair.as" filetype="as" />
+        <project_file path="./classes/TagPairSection.as" filetype="as" />
+    </project_folder>
+    <project_folder name="fla" expanded="true">
+        <project_file path="./chess.fla" filetype="fla" profile="" def_file="true" />
+    </project_folder>
+</flash_project>
